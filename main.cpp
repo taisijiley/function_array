@@ -5,7 +5,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-/*Передача массива с функциями*/
+/*РџРµСЂРµРґР°С‡Р° РјР°СЃСЃРёРІР° СЃ С„СѓРЅРєС†РёСЏРјРё*/
 
 void FillArray(int arr[], const int size)
 {
